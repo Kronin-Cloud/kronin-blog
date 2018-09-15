@@ -1,20 +1,20 @@
 {
   "connectlinks": [
     {
-      "name": "Instagram",
-      "url": "https://instagram.com/jasperketone"
+      "name": "Slack",
+      "url": "https://kronincloud.slack.com"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/jasperketone"
+      "url": "https://twitter.com/Kbanhidy"
     },
     {
       "name": "Github",
-      "url": "https://github.com/jake-101"
+      "url": "https://github.com/Kronin-Cloud"
     },
     {
-      "name": "Unsplash",
-      "url": "https://unsplash.com/@jake101"
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/company/kronin-cloud/"
     }
   ]
 }
