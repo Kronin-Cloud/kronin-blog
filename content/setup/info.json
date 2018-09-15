@@ -1,24 +1,14 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Kronin Cloud Blog",
+  "sitedescription": "Tech blog of Kronin Cloud",
+  "siteicon": "/images/uploads/kronin.png",
   "showmenu": true,
   "emailsignup": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "Kronin Cloud",
       "position": "1",
-      "link": "https://www.jake101.com/"
-    },
-    {
-      "name": "Nuxt.js",
-      "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "https://kronin.cloud"
     }
   ]
 }
