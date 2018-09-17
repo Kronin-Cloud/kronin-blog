@@ -27,7 +27,7 @@
       <div v-if="signupBoolean" class="c-25 xs-text-left xs-p2 xs-border">
         <div v-if="!sent" class="item">
           <div class="footer__heading xs-mb2">Newsletter Signup</div>
-          <form @submit.prevent="processForm" action="/.netlify/functions/app" name="mailinglist">
+          <form @submit.prevent="processForm" action="https://blog.kronin.cloud/.netlify/functions/app" name="mailinglist">
             <input type="email" v-model="emaildata.email" class="text-input text-input--small xs-mb1 xs-mr2" placeholder="you@email.com">
             <button type="submit" class="button button--transparent button--small">Submit</button>
           </form>
